@@ -31,7 +31,7 @@ All of this is:
 - stored only in DayKeep's own storage area on your device, so that your figures are still there when you come back; and
 - deleted permanently when you delete DayKeep from your device.
 
-None of it is transmitted to us or to anyone else. DayKeep does not need an internet connection to calculate. If your device is backed up to iCloud or to a computer, your DayKeep data may be included in that backup — that backup is controlled by you and by Apple, not by us.
+None of it is transmitted to us or to anyone else. DayKeep does not need an internet connection to calculate. DayKeep periodically downloads a small public file of UK tax rates and thresholds from our public daykeep-data repository, hosted on GitHub Pages (just-vlados.github.io), so your estimates stay current. That request does not include any of the figures you enter; as with any internet request, GitHub can see your device's IP address and standard request details and handles them under its own privacy policy, and we do not receive them. If your device is backed up to iCloud or to a computer, your DayKeep data may be included in that backup — that backup is controlled by you and by Apple, not by us.
 
 Because we never receive this information, we cannot retrieve it, restore it, or delete it on your behalf.
 
@@ -102,4 +102,4 @@ If we change how DayKeep handles information, we will update this policy, change
 
 ---
 
-*This policy was last updated on 2 October 2026.*
+*This policy was last updated on 8 October 2026.*

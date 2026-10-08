@@ -156,4 +156,4 @@ If something has gone wrong, please contact us at daykeep@vilae.uk and tell us w
 
 ---
 
-*These terms were last updated on 2 October 2026.*
+*These terms were last updated on 8 October 2026.*
